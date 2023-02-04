@@ -176,7 +176,7 @@ print(r.text)
 
 [Menu](https://github.com/br13k/writeups#-menu)
 
-## 📌 So easy
+## 📌 Ez
 
 <div align="center">
 
