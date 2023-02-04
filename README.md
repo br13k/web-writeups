@@ -5,15 +5,15 @@
 </div>
 
 # 📌 Menu
-- [level1](https://github.com/br13k/writeups#-level1)
-- [level2](https://github.com/br13k/writeups#-level2)
-- [level3](https://github.com/br13k/writeups#-level3)
-- [level4](https://github.com/br13k/writeups#-level4)
-- [level5](https://github.com/br13k/writeups#-level5)
-- [level6](https://github.com/br13k/writeups#-level6)
-- [Чай](https://github.com/br13k/writeups#-чаек)
-- [So easy](https://github.com/br13k/writeups#-so-easy)
-- [Ez](https://github.com/br13k/writeups#-ez)
+- [level1](https://github.com/br13k/web-writeups#-level1)
+- [level2](https://github.com/br13k/web-writeups#-level2)
+- [level3](https://github.com/br13k/web-writeups#-level3)
+- [level4](https://github.com/br13k/web-writeups#-level4)
+- [level5](https://github.com/br13k/web-writeups#-level5)
+- [level6](https://github.com/br13k/web-writeups#-level6)
+- [Чай](https://github.com/br13k/web-writeups#-чаек)
+- [So easy](https://github.com/br13k/web-writeups#-so-easy)
+- [Ez](https://github.com/br13k/web-writeups#-ez)
 
 ## 📌 level1
 
