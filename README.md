@@ -13,6 +13,7 @@
 - [level6](https://github.com/br13k/writeups#-level6)
 - [Чай](https://github.com/br13k/writeups#-чаек)
 - [So easy](https://github.com/br13k/writeups#-so-easy)
+- [Ez](https://github.com/br13k/writeups#-ez)
 
 ## 📌 level1
 
@@ -171,6 +172,27 @@ print(r.text)
 
 
 Флаг: `spbctf{r3st_c1i3n7_1s_th3_b35t_w4y}`
+
+
+[Menu](https://github.com/br13k/writeups#-menu)
+
+## 📌 So easy
+
+<div align="center">
+
+  ​​​​​​</br>![image](https://user-images.githubusercontent.com/121574230/216763435-cd84e6d6-4bc2-45bf-82b4-e16cc3fbdf34.png)
+  
+</div>
+
+Простейший SSTI. Зырим страницу: https://simple.ssti.2537ly.space и видим код приложения, заходим в директорию **/vulnerable**, которую отрыли в коде и видим, что можно поиграться с именем пользователя. Вводим в адресную строку следующее:
+
+```
+https://simple.ssti.2537ly.space/vulnerable?username={{config}}
+```
+
+![image](https://user-images.githubusercontent.com/121574230/216763815-781654a3-dacd-4b99-9097-af7efab0728c.png)
+
+Получаем флаг: `spbctf{GoOooD_job_with_first_SSTI}`
 
 
 [Menu](https://github.com/br13k/writeups#-menu)
