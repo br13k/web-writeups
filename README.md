@@ -26,7 +26,7 @@
 
 Задача для тупых, люблю такие) Переходим по ссылке и смотрим флаг: `KSL{fc813aadb96c4a00b6887f73cee4efde}`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/web-writeups#-menu)
 
 ## 📌 level2
 
@@ -38,7 +38,7 @@
 
 Через инструменты разработчика глядим код страницы и находим флаг: `KSL{4dc7b79ae6f3c46c904970ff7cdcecda}`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/web-writeups#-menu)
 
 ## 📌 level3
 
@@ -54,7 +54,7 @@
 ![image](https://user-images.githubusercontent.com/121574230/212357676-c866c1ee-9df4-4722-a658-4ce5c418603e.png)
 
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/web-writeups#-menu)
 
 ## 📌 level4
 
@@ -82,7 +82,7 @@ print(r.text)
 
 ```
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/web-writeups#-menu)
 
 ## 📌 level5
 
@@ -102,7 +102,7 @@ curl -d "fun=Kaspersky+%26+Summer+%26+Lab" http://kslweb1.spb.ctf.su/first/level
 Флаг: `KSL{72772dd0eee640322a3ecfb24ecab17b}`
 
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/web-writeups#-menu)
 
 ## 📌 level6
 
@@ -128,7 +128,7 @@ print(r.text)
 Флаг: `KSL{72772dd0eee640322a3ecfb24ecab17b}`
 
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/web-writeups#-menu)
 
 ## 📌 Level23
 
@@ -157,7 +157,7 @@ for i in range(1337):
 
 Флаг: `KSL{a3908a69183647a1e68e515b6e52880a}`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/web-writeups#-menu)
 
 ## 📌 Чаек
 
@@ -169,7 +169,7 @@ for i in range(1337):
 
 ПеРеРыВ нА чАй
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/web-writeups#-menu)
 
 ## 📌 So easy
 
@@ -204,7 +204,7 @@ print(r.text)
 Флаг: `spbctf{r3st_c1i3n7_1s_th3_b35t_w4y}`
 
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/web-writeups#-menu)
 
 ## 📌 Ez
 
@@ -225,7 +225,7 @@ https://simple.ssti.2537ly.space/vulnerable?username={{config}}
 Получаем флаг: `spbctf{GoOooD_job_with_first_SSTI}`
 
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/web-writeups#-menu)
 
 # 📌 ВСЁ!
 
